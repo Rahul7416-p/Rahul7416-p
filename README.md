@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Paul</h1>
 <h3 align="center">A passionate Drug Discovery Data Scientist from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/mJm6nVIf96cBpBNskS/giphy.gif">
 
 - 🔭 I’m currently working on **QSAR-RASAR-AIDD Project**
 
