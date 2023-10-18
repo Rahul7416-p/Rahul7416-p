@@ -1,4 +1,4 @@
-al![Slide1](https://github.com/Rahul7416-p/Rahul7416-p/assets/82374099/5fb71c33-1ec1-408c-9d09-e241b55769fb)
+![Slide1](https://github.com/Rahul7416-p/Rahul7416-p/assets/82374099/5fb71c33-1ec1-408c-9d09-e241b55769fb)
 <h1 align="center">Hi 👋, I'm Rahul Paul</h1>  
 <h3 align="center">A passionate Drug Discovery Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/mJm6nVIf96cBpBNskS/giphy.gif">
