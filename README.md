@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/rahul-paul-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rahul-paul-" height="30" width="40" /></a>
 <a href="https://kaggle.com/paulrahul74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="paulrahul74" height="30" width="40" /></a>
 <a href="https://instagram.com/artbreather_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artbreather_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/w4gi5zar6dhmupls5gtaiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="w4gi5zar6dhmupls5gtaiq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@progwithpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@progwithpaul" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahul7416-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul7416-p" height="30" width="40" /></a>
 </p>
 
